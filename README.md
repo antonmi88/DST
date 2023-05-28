@@ -3,11 +3,11 @@
 ## Задача проекта
 Подготовка данных для построения можели автоматического определения уровня заработной платы, подходящей соискателю, исходя из информации, которую он указал в резюме.
 ## Исходные данные
-I. [База резюме](https://drive.google.com/file/d/1Kb78mAWYKcYlellTGhIjPI-bCcKbGuTn/view?usp=sharing), выгруженная с сайта поиска вакансий hh.ru.
+I. [База резюме](https://drive.google.com/file/d/1Kb78mAWYKcYlellTGhIjPI-bCcKbGuTn/view?usp=sharing), выгруженная с сайта поиска вакансий hh.ru (stored in repository with Git Large File Storage).
 
 II. [Ноутбук-шаблон](https://lms.skillfactory.ru/assets/courseware/v1/1577d067038f8073197105c174f05822/asset-v1:SkillFactory+DST-3.0+28FEB2021+type@asset+block/Project-1._%D0%9D%D0%BE%D1%83%D1%82%D0%B1%D1%83%D0%BA-%D1%88%D0%B0%D0%B1%D0%BB%D0%BE%D0%BD.ipynb)
 
-III. [Выгрузка курсов валют](https://lms.skillfactory.ru/assets/courseware/v1/15abf80f45a2f3e93c3274101b451c67/asset-v1:SkillFactory+DST-3.0+28FEB2021+type@asset+block/ExchangeRates.zip), которые встречаются в исследуемых данных.
+III. [Выгрузка курсов валют](https://lms.skillfactory.ru/assets/courseware/v1/15abf80f45a2f3e93c3274101b451c67/asset-v1:SkillFactory+DST-3.0+28FEB2021+type@asset+block/ExchangeRates.zip), которые встречаются в исследуемых данных (stored in repository with Git Large File Storage).
 
 ## Этапы реализации проекта
 
